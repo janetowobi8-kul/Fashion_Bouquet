@@ -78,7 +78,13 @@ Here’s an overview of my 5-page Fashion Retail Power BI Dashboard:
 ### 🟤 Page 5: Summary & Key Insights
 ![Page 5](page5_overview.png)
 
+# Tools Used
 
+Power BI Desktop (data cleaning, modeling, visualization)
+
+SQL Database (data source and cleaning)
+
+Excel (raw dataset formatting)
 
 
 
