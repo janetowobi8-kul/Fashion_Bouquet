@@ -57,7 +57,27 @@ Discounts and Prices
 
  Quality & Returns → Tighter quality assurance and improved product image color accuracy.
 
- Brand Strategy → Emphasize Gap/Mango's good customer satisfaction ratings and reinforce Zara/Uniqlo's positioning.
+ Brand Strategy → Emphasize Gap/Mango's good customer satisfaction ratings and reinforce Zara/Uniqlo's positioning
+
+ ## 📊 Dashboard Preview
+
+Here’s an overview of my 5-page Fashion Retail Power BI Dashboard:
+
+### 🟠 Page 1: Sales & Stock Overview
+![Page 1](page1_sales_stock.png)
+
+### 🟢 Page 2: Customer Preferences
+![Page 2](page2_customer_prefs.png)
+
+### 🔵 Page 3: Discounts & Pricing
+![Page 3](page3_discounts_pricing.png)
+
+### 🟣 Page 4: Trends & Seasonality    
+![Page 4 ](page4_trends_seasonality.png)
+
+
+### 🟤 Page 5: Summary & Key Insights
+![Page 5](page5_returns.png)
 
 
 
